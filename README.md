@@ -6,3 +6,7 @@ issued the first public release in 1991.
 In this document，To learn about python syntax.
 
 The author by cnwindy
+
+a = 1;
+b = "string";
+c = [1, 2, "str", true, false];
